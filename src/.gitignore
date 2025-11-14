@@ -1,0 +1,10 @@
+# Ignorar pasta de compilação do Maven/Java
+/target/
+
+# Ignorar pasta do H2 Database (ou outro DB local)
+/data/
+
+# Ignorar arquivos de IDE
+.idea/
+.vscode/
+*.iml
